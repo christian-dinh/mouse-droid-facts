@@ -1,0 +1,20 @@
+html {
+	background: url(https://previews.123rf.com/images/hospitalera/hospitalera1001/hospitalera100100166/6343470-tiny-multicolored-stars-background-that-tiles-seamless-in-all-directions.jpg) repeat;
+	background-size: 500px;
+	color: white;
+}
+
+main {
+	max-width: 900px;
+	padding: 0 50px;
+	margin: auto;
+	text-align: center;
+}
+
+.hero {
+	max-width: 100%;
+}
+
+.facts {
+	text-align: left;
+}
